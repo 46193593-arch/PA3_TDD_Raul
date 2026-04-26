@@ -1,3 +1,4 @@
+// validación de producto
 import java.util.ArrayList;
 import java.util.List;
 
